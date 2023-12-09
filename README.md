@@ -20,10 +20,15 @@ Once privateGPT is installed, the `app.py` file and `template` directory can be 
 
 ## How it works
 The Course Helper uses a custom made "bridging app" that launches privateGPT and a webserver, then connects the two.
-![Diagram showing the bridge app connecting the web interface to privateGPT](https://github.com/drphilchambers/course_helper/blob/main/%E2%80%8Ediagram_1_chatbot_system-1024x274.png)
+
+![‎Diagram showing the bridge app connecting the web interface to privateGPT](https://github.com/drphilchambers/course_helper/assets/99165681/7e4fbedb-0fb2-417d-ae97-3bfb15d05539)
+
 
 Once created, the web interface portion, running locally, allows us to plug it into a Canvas page, like so:
-![A screenshot showing regular Canvas text on the left, and the chat box interface on the right, connected to the LLM.](https://github.com/drphilchambers/course_helper/blob/main/canvas_integration-1024x627.png)
+
+![A screenshot showing regular Canvas text on the left, and the chat box interface on the right, connected to the LLM.](https://github.com/drphilchambers/course_helper/assets/99165681/695d92f9-5d96-453d-9aab-a6464f027cc5)
+
+
 
 ### Demo Video
 This video is a sped up version of how the bot works.
