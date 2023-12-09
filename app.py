@@ -6,7 +6,6 @@ and a web interface for the purposes of embedding a chatbot inside
 a Learning Management System such as Canvas pages.
 """
 
-#
 import subprocess
 import sys
 from flask import Flask, render_template, request, jsonify
